@@ -36,4 +36,4 @@
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yussef_Jurado-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yussef-jurado-105266322/)
-[![Email](https://img.shields.io/badge/Email-afilido1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afilido1@gmail.com)
+[![Email](https://img.shields.io/badge/ProtonMail-u.sarnt%40proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:u.sarnt@proton.me)
