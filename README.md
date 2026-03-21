@@ -1,6 +1,6 @@
 # Hey, I'm Yussef 👋
 
-**Python Developer & Cybersecurity Expert** — I build tools that sit at the intersection of automation, security, and practical software.
+**Python Developer & Security Engineer** — I build tools that sit at the intersection of automation, security, and practical software.
 
 ---
 
